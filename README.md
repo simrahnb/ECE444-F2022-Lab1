@@ -1,4 +1,4 @@
 Simrah Najeeb
 
-##### Activity 1 
-![Activity 1] (Screen Shot 2022-09-15 at 1.54.14 PM)
+#### Activity 1 
+![Activity 1] (https://imgur.com/kt1XT9Q)
