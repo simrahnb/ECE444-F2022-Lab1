@@ -8,4 +8,4 @@ Simrah Najeeb
 
 #### Activity 3 
 ![ScreenShot](screenshots/activity3-pt2.png)
-![ScreenShot](screenshots/activity3.png)
+![ScreenShot](screenshots/Activity3.png)
