@@ -13,8 +13,10 @@ Simrah Najeeb
 #### Activity 4 
 [Teammate's GitHub repository](https://github.com/ShaziahGafur/ECE444-F2022-Lab1) 
 
-![ScreenShot](screenshots/Act4.png) 
-![ScreenShot](screenshots/Activity4.png)
+My change on teammate's repo: 
+![ScreenShot](screenshots/mychange.png) 
+Teammate's change on my repo: 
+![ScreenShot](screenshots/teammateschange.png)
 
 
 #### Activity 5 
@@ -27,3 +29,7 @@ https://github.com/simrahnb/ECE444-F2022-EP
 #### Activity 7 
 ![ScreenShot](screenshots/Act7.png) 
 ![ScreenShot](screenshots/Activity7.png)
+
+### Activity 8 
+![ScreenShot](screenshots/Act8.png) 
+![ScreenShot](screenshots/Activity8.png)
