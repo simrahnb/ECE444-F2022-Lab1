@@ -19,5 +19,5 @@ Simrah Najeeb
 https://github.com/simrahnb/ECE444-F2022-EP
 
 #### Activity 7 
-![ScreenShot](screenshots/Screen Shot 2022-09-18 at 5.36.24 PM.png) 
-![ScreenShot](screenshots/Screen Shot 2022-09-18 at 5.41.38 PM.png)
+![ScreenShot](screenshots/Act7.png) 
+![ScreenShot](screenshots/Activity7.png)
