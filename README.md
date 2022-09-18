@@ -10,6 +10,12 @@ Simrah Najeeb
 ![ScreenShot](screenshots/activity3-pt2.png)
 ![ScreenShot](screenshots/Activity3.png)
 
+#### Activity 4 
+[Teammate's GitHub repository](https://github.com/ShaziahGafur/ECE444-F2022-Lab1) 
+
+![ScreenShot](screenshots/Act4.png) 
+![ScreenShot](screenshots/Activity4.png)
+
 
 #### Activity 5 
 ![ScreenShot](screenshots/Activity5.png)
