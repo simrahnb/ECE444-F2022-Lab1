@@ -24,7 +24,7 @@ Teammate's change on my repo:
 ![ScreenShot](screenshots/Activity5-2.png)
 
 #### Activity 6 
-https://github.com/simrahnb/ECE444-F2022-EP
+[Link to my EP repo](https://github.com/simrahnb/ECE444-F2022-EP)
 
 #### Activity 7 
 ![ScreenShot](screenshots/Act7.png) 
